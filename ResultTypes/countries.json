@@ -1,0 +1,10 @@
+
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+   "countries": [{"capital":"Canberra","country":"Australia","area":"2941283","population":"23"},{"capital":"Dhaka","country":"Bangladesh","area":"55598","population":"166"},{"capital":"Brasilia","country":"Brazil","area":"3286470","population":"206"},{"capital":"London","country":"Britain","area":"93228","population":"64"},{"capital":"Ottawa","country":"Canada","area":"3855102","population":"35"},{"capital":"Beijing","country":"China","area":"3705407","population":"1340"},{"capital":"Cairo","country":"Egypt","area":"386662","population":"84"},{"capital":"Paris","country":"France","area":"211209","population":"66"},{"capital":"Berlin","country":"Germany","area":"137846","population":"81"},{"capital":"New Delhi","country":"India","area":"1269338","population":"1230"},{"capital":"Dublin","country":"Ireland","area":"27135","population":"5"},{"capital":"Rome","country":"Italy","area":"116305","population":"61"},{"capital":"Tokyo","country":"Japan","area":"145882","population":"127"},{"capital":"Mexico City","country":"Mexico","area":"761602","population":"112"},{"capital":"Wellington","country":"New Zealand","area":"103737","population":"4"},{"capital":"Abuja","country":"Nigeria","area":"356667","population":"152"},{"capital":"Pretoria","country":"South Africa","area":"471008","population":"48"},{"capital":"Washington D.C.","country":"USA","area":"3718691","population":"319"},{"capital":"Caracas","country":"Venezuela","area":"352144","population":"29"}],
+    "confident": false
+  }
+}
